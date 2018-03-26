@@ -9,10 +9,19 @@
 }
 .box_2 {
 }
+.box_3 {
+}
+.ellipse {
+}
 ._图片 {
+}
+.button {
 }
 .primary_button {
   color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
 }
 ._一级标题 {
   font-family:'ArialMT', 'Arial';
@@ -64,6 +73,10 @@
 }
 .line {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 .radio_button {
   text-align:left;
 }
@@ -77,4 +90,6 @@
 .flow_shape {
 }
 .box_1 {
+}
+._形状 {
 }
